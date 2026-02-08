@@ -1,5 +1,4 @@
-Nice work on the content already — it’s solid, just a bit too advanced for a “just started” academic README. Below is a clean, beginner-level, academic-style rewrite.
-It keeps things simple, formal, and realistic for an early-stage web development project 👌
+
 Leonald Ndikuryayo
 Personal Portfolio Website
 This project is a personal portfolio website developed as part of an academic assignment. The purpose of the website is to introduce the developer, present basic skills and projects, and provide contact information. The website is built using HTML5, CSS3, and basic JavaScript and is hosted using GitHub Pages.
