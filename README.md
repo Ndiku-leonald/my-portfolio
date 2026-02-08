@@ -6,18 +6,22 @@ This project is a personal portfolio website developed as part of an academic as
  The website is built using HTML5, CSS3, and basic JavaScript and is hosted using GitHub Pages.
 
 Project Overview
+
 Project Title: Personal Portfolio Website
 Course Requirement: Setting Up a Portfolio Website Using GitHub Pages
 Created: February 2026
 Project Type: Academic / Beginner-Level Web Development Project
 Status: Completed
 The project focuses on applying foundational web development concepts such as page structure, styling, basic interactivity, and responsive design.
+
 Live Website
 The portfolio website can be accessed using the link below:
 🔗 https://Ndiku-leonald.github.io/my-portfolio/�
+
 Project Structure
 The project is organized into folders to separate content, styling, and scripts for easier understanding and maintenance.
 Copy code
+
 
 my-portfolio/
 ├── index.html        # Main web page
@@ -30,6 +34,7 @@ my-portfolio/
 │   └── panda-tech.png# Project image
 ├── favicon.png       # Website icon
 └── README.md         # Project documentation
+
 Features
 The following features have been implemented in this project:
 Responsive layout that works on desktop and mobile devices
