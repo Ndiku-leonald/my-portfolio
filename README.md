@@ -24,16 +24,16 @@ Copy code
 
 
 my-portfolio/
-├── index.html        # Main web page
+├── index.html        - Main web page
 ├── css/
-│   └── style.css     # Website styling
+│   ── style.css     - Website styling
 ├── js/
-│   └── script.js     # Basic interactivity
+│   ── script.js     - Basic interactivity
 ├── images/
-│   ├── profile.jpg   # Profile image
-│   └── panda-tech.png# Project image
-├── favicon.png       # Website icon
-└── README.md         # Project documentation
+│    ── profile.jpg   - Profile image
+│     ── panda-tech.png - Project image
+├── favicon.png       -Website icon
+  ── README.md         - Project documentation
 
 Features
 The following features have been implemented in this project:
@@ -43,6 +43,7 @@ Multiple sections including Home, About, Projects, and Contact
 Basic animations and hover effects using CSS
 Simple JavaScript for interactivity such as menu toggling and scrolling
 Clean and readable user interface with a dark theme
+
 Website Sections
 The website consists of the following main sections:
 Home – Displays the developer’s name and a short introduction
@@ -50,15 +51,19 @@ About – Provides academic background and basic skills
 Projects – Shows sample projects completed or in progress
 Contact – Contains email and social links
 Footer – Displays copyright information
+
 Technologies Used
 Programming Languages and Tools
+
 HTML5 – For structuring the website content
 CSS3 – For styling, layout, and basic animations
 JavaScript – For simple interactive features
 Git & GitHub – For version control
 GitHub Pages – For hosting the website
 VS Code – Code editor used during development
+
 Developer Information
+
 Name: Leonald Ndikuryayo
 Course: Bachelor of Science in Information Technology
 Institution: Uganda Christian University
